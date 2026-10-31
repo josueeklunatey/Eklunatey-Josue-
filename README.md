@@ -153,6 +153,11 @@ Je suis ouvert aux échanges techniques, aux projets collaboratifs, aux opportun
 
 Si mes projets t’intéressent, n’hésite pas à explorer mes dépôts et à partager tes observations.
 
+## 📬 Me contacter
+
+- 📧 **Email :** [eklunateyjosue@gmail.com](mailto:eklunateyjosue@gmail.com)
+- 💼 **LinkedIn :** [linkedin.com/in/[votre-profil](https://www.linkedin.com/in/akouete-josue-eklu-natey-8466922b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLyCepK5wSSya68n7KeTWhQ%3D%3D)](https://linkedin.com/in/[votre-profil](https://www.linkedin.com/in/akouete-josue-eklu-natey-8466922b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BLyCepK5wSSya68n7KeTWhQ%3D%3D))
+- 📍 **Localisation :Sanguéra** Lomé, Togo
 ---
 
 **Josué Eklu-Natey**  
