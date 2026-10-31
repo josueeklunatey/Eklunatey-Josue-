@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c’est Josué Eklu-Natey
+# 👋 Bonjour, moi c’est Josue Eklu-Natey
 
 ### Étudiant en génie électrique | Systèmes embarqués | Énergie | Automatisation | Conception 3D
 
