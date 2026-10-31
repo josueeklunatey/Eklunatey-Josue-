@@ -156,7 +156,7 @@ Si mes projets t’intéressent, n’hésite pas à explorer mes dépôts et à 
 ## 📬 Me contacter
 
 - 📧 **Email :** [eklunateyjosue@gmail.com](mailto:eklunateyjosue@gmail.com)
-- 💼 **LinkedIn :** [linkedin.com/in/[www.linkedin.com/in/akouete-josue-eklu-natey-8466922b2](www.linkedin.com/in/akouete-josue-eklu-natey-8466922b2)
+- 💼 **LinkedIn :** [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
 - 📍 **Localisation :Sanguéra** Lomé, Togo
 ---
 
