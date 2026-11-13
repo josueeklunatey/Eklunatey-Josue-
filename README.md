@@ -156,10 +156,10 @@ Si mes projets t’intéressent, n’hésite pas à explorer mes dépôts et à 
 ## 📬 Me contacter
 
 - 📧 **Email :** [eklunateyjosue@gmail.com](mailto:eklunateyjosue@gmail.com)
-- 💼 <strong>LinkedIn :</strong> 
-  <a href="https://www.linkedin.com/in/akouete-josue-eklu-natey-8466922b2/" target="_blank" rel="noopener noreferrer">
-    Akouete Josue EKLU-NATEY
-  </a>
+| Plateforme | Profil |
+|:---|:---|
+| 💼 LinkedIn | <a href="https://www.linkedin.com/in/akouete-josue-eklu-natey-8466922b2/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" alt="LinkedIn"> Akouete Josue EKLU-NATEY</a> |
+| ▶️ YouTube | <a href="https://www.youtube.com/@TheCircuitNova" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="20" alt="YouTube"> The Circuit Nova</a> |
 - 📍 **Localisation :Sanguéra** Lomé, Togo
 ---
 
